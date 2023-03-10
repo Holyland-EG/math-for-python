@@ -1,3 +1,3 @@
-# math_for_python
+# Math for python
 
 First course of machine-learning-data-analysis
